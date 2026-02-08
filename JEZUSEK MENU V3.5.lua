@@ -16,7 +16,6 @@ Creditsy:
 Pan Jezus - Wsparcie duchowe, determinacja, motywacja, ochrona.
 
 zygardm - menu
-chatgpt- naprawianie upo bledow, naprawa spaghetti zmiennych, freecam xd
 konrad chmielewski blikoman bramka 420 cbzc agent blik agent bramka, laczoslaw, bojanek, glock, mozer, pajonk, hell, kebisiek - wsparcie emocjonalne
 rajanoss kubiolo - inspiracja
 kebisiek foxit - pozyczenie funkcji z fivem jebator v3
@@ -4699,3 +4698,4 @@ end)
 
 
 --AddButton("WEAPON", "asdada", function() weapon("WEAPON_PISTOL") end)
+
